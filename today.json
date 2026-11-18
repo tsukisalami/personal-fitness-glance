@@ -16,22 +16,22 @@
     {
       "name": "Chest-Supported Row",
       "sets_reps": "8-10",
-      "weight_kg": 40.0,
-      "next_target_kg": 42.5,
+      "weight_kg": 12.5,
+      "next_target_kg": 15.0,
       "step_kg": 2.5
     },
     {
       "name": "Face Pull",
       "sets_reps": 15,
-      "weight_kg": 15.0,
-      "next_target_kg": 17.5,
+      "weight_kg": 17.5,
+      "next_target_kg": 20.0,
       "step_kg": 2.5
     },
     {
       "name": "Hammer Curl",
       "sets_reps": "10-12",
-      "weight_kg": 11.0,
-      "next_target_kg": 12.0,
+      "weight_kg": 10.0,
+      "next_target_kg": 11.0,
       "step_kg": 1
     }
   ],
@@ -50,13 +50,13 @@
     "Romanian Deadlift": 50.0,
     "Bulgarian Split Squat": 14.0,
     "Pull-Up": 0.0,
-    "Chest-Supported Row": 40.0,
+    "Chest-Supported Row": 12.5,
     "Barbell Row": 40.0,
     "Incline DB Press": 17.0,
     "Lateral Raise": 7.0,
     "Triceps Pushdown": 25.0,
-    "Hammer Curl": 11.0,
-    "Face Pull": 15.0,
+    "Hammer Curl": 10.0,
+    "Face Pull": 17.5,
     "Goblet Squat": 22.0,
     "Single-Leg RDL": 14.0,
     "Standing Calf Raise": 40.0,
