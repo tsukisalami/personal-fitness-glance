@@ -1,48 +1,55 @@
 {
-  "date": "2026-11-18",
-  "weekday": "Wednesday",
-  "workout": "Upper Pull",
+  "date": "2026-11-19",
+  "weekday": "Thursday",
+  "workout": "Lower B - Hinge & Mountain",
   "time_window": "15:00-16:00",
-  "duration_min": 45,
-  "notes": "Open FitKit / Obsidian Mobile to log sets. Weights from Progression Ledger.",
+  "duration_min": 55,
+  "notes": "Weights from Progression Ledger · adjust at 17:30 check-in",
   "exercises": [
     {
-      "name": "Pull-Up",
-      "sets_reps": "6-10",
-      "weight_kg": 0.0,
-      "next_target_kg": 2.5,
+      "name": "Romanian Deadlift",
+      "sets_reps": "5-10",
+      "weight_kg": 50.0,
+      "next_target_kg": 52.5,
       "step_kg": 2.5
     },
     {
-      "name": "Chest-Supported Row",
-      "sets_reps": "8-10",
-      "weight_kg": 12.5,
-      "next_target_kg": 15.0,
+      "name": "Conventional Deadlift",
+      "sets_reps": "5-8",
+      "weight_kg": null,
+      "next_target_kg": null,
       "step_kg": 2.5
     },
     {
-      "name": "Face Pull",
-      "sets_reps": 15,
-      "weight_kg": 17.5,
-      "next_target_kg": 20.0,
-      "step_kg": 2.5
+      "name": "Goblet Squat",
+      "sets_reps": 10,
+      "weight_kg": 22.0,
+      "next_target_kg": 24.0,
+      "step_kg": 2
     },
     {
-      "name": "Hammer Curl",
+      "name": "Hamstring Curl",
       "sets_reps": "10-12",
-      "weight_kg": 10.0,
-      "next_target_kg": 11.0,
+      "weight_kg": null,
+      "next_target_kg": null,
       "step_kg": 1
+    },
+    {
+      "name": "Single-Leg RDL",
+      "sets_reps": "8-10/leg",
+      "weight_kg": 14.0,
+      "next_target_kg": 16.0,
+      "step_kg": 2
+    },
+    {
+      "name": "Farmer Carry",
+      "sets_reps": "30-40m",
+      "weight_kg": 28.0,
+      "next_target_kg": 32.0,
+      "step_kg": 4
     }
   ],
-  "endurance": {
-    "type": "track_intervals",
-    "track_m": 350,
-    "options": [
-      "6x350m @ ~4:10-4:20/km, 200m jog",
-      "4x700m @ same pace, 200-350m jog"
-    ]
-  },
+  "endurance": null,
   "weights_snapshot": {
     "Back Squat": 60.0,
     "Bench Press": 50.0,
@@ -64,5 +71,6 @@
     "Weighted Dip": 0.0,
     "Push-Up": 0.0
   },
+  "updated_at": "2026-11-19T15:51:35Z",
   "running_guardrail": "2026-W46 10.6 km → 2026-W47 3.0 km (-71%) · OK"
 }
